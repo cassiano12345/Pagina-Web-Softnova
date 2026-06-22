@@ -1,4 +1,4 @@
-### Projeto pagina web softnova
+### 🌐Projeto pagina web softnova
 
 Este projeto teve como objetivo criar uma pagina web para a empresa softnova e os clientes. Para tal foi usado PhP, HTML, Css, Javascript, e base de dados em Oracle num servidor.
 
